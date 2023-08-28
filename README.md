@@ -18,7 +18,7 @@ Since 2019, I have excelled in the field of computer science as a developer, and
 
 ### 🚀 ![Javascript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=yellow) ![Typescript](https://img.shields.io/badge/typescript-14354C?style=for-the-badge&logo=typescript&logoColor=blue)
 
-`- DOM (Document object model)
+- DOM (Document object model)
   - Nodejs 
   - Express JS
   - Nextjs 
@@ -36,22 +36,14 @@ Since 2019, I have excelled in the field of computer science as a developer, and
   very good skills
 `
 ### 🚀 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-
-`
 - DJANGO
 - DJANGO API Restful
 - Data analysis 
 - Machine Learning
-`
 ### 🚀 ![Java/ Java EE](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=blue) 
-
-`
 - Sprint
 - Sprint Boot
-`
 ### 🚀 ![PhP](https://img.shields.io/badge/Php-%23323330.svg?style=for-the-badge&logo=php&logoColor=blue)
 
-`
 - Laravel
 - API Rest
-`
