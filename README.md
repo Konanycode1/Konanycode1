@@ -18,15 +18,13 @@ Since 2019, I have excelled in the field of computer science as a developer, and
 
 ### 🚀 ![Javascript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=yellow) ![Typescript](https://img.shields.io/badge/typescript-14354C?style=for-the-badge&logo=typescript&logoColor=blue)
 
-`
-  - DOM (Document object model)
+`- DOM (Document object model)
   - Nodejs 
   - Express JS
   - Nextjs 
   - React JS 
   - Angular JS
-  - React Native 
-`
+  - React Native`
 ##### 🚀 ![HTMLCss](https://img.shields.io/badge/Htmlcss-14354C?style=for-the-badge&logo=css&logoColor=yellow)
 
 `
