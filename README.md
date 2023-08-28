@@ -47,3 +47,8 @@ Since 2019, I have excelled in the field of computer science as a developer, and
 
 - Laravel
 - API Rest
+
+# ♟️  My project 
+
+[![wassa-Wassa](https://github.com/Konanycode1/Wassa-wassa/blob/main/assets/img/wassa1.png)](https://konanycode1.github.io/Wassa-wassa/)
+
