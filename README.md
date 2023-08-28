@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Konanycode1
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Konanycode1/Konanycode1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# full-stack developer
+
+Since 2019, I have excelled in the field of computer science as a developer, and thanks to my passion for this field, I have accumulated a vast amount of knowledge. Today, this enables me to embark on a professional journey as a designer and innovator in the world of IT.
+
+
+# professional experience 
+
+- web and mobile integrator and developer
+
+- API rest implementation
+- UI design
+- Data analysis
+
+
