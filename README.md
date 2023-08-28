@@ -16,7 +16,7 @@ Since 2019, I have excelled in the field of computer science as a developer, and
 
 ## 🛠 Technology
 
-# 🚀 ![Javascript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=yellow) ![Typescript](https://img.shields.io/badge/typescript-14354C?style=for-the-badge&logo=typescript&logoColor=blue)
+### 🚀 ![Javascript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=yellow) ![Typescript](https://img.shields.io/badge/typescript-14354C?style=for-the-badge&logo=typescript&logoColor=blue)
 
 ```bash
   - DOM (Document object model)
@@ -28,17 +28,17 @@ Since 2019, I have excelled in the field of computer science as a developer, and
   - React Native
   
 ```
-# 🚀 ![HTMLCss](https://img.shields.io/badge/Htmlcss-14354C?style=for-the-badge&logo=css&logoColor=yellow)
+### 🚀 ![HTMLCss](https://img.shields.io/badge/Htmlcss-14354C?style=for-the-badge&logo=css&logoColor=yellow)
 
 ```bash
   very good skills
 ```
-# 🚀![JQuery](https://img.shields.io/badge/jquery-14354C?style=for-the-badge&logo=jquery&logoColor=blue)
+### 🚀![JQuery](https://img.shields.io/badge/jquery-14354C?style=for-the-badge&logo=jquery&logoColor=blue)
 
 ```bash
   very good skills
 ```
-# 🚀 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+### 🚀 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
 
 ```bash
 - DJANGO
@@ -46,13 +46,13 @@ Since 2019, I have excelled in the field of computer science as a developer, and
 - Data analysis 
 - Machine Learning
 ```
-# 🚀 ![Java/ Java EE](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=blue) 
+### 🚀 ![Java/ Java EE](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=blue) 
 
 ```bash
 - Sprint
 - Sprint Boot
 ```
-# 🚀 ![PhP](https://img.shields.io/badge/Php-%23323330.svg?style=for-the-badge&logo=php&logoColor=blue)
+### 🚀 ![PhP](https://img.shields.io/badge/Php-%23323330.svg?style=for-the-badge&logo=php&logoColor=blue)
 
 ```bash
 - Laravel
