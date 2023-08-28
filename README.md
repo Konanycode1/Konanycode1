@@ -28,7 +28,7 @@ Since 2019, I have excelled in the field of computer science as a developer, and
   - React Native
   
 ```
-### 🚀 ![HTMLCss](https://img.shields.io/badge/Htmlcss-14354C?style=for-the-badge&logo=css&logoColor=yellow)
+##### 🚀 ![HTMLCss](https://img.shields.io/badge/Htmlcss-14354C?style=for-the-badge&logo=css&logoColor=yellow)
 
 ```bash
   very good skills
