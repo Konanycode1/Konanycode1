@@ -50,5 +50,7 @@ Since 2019, I have excelled in the field of computer science as a developer, and
 
 # ♟️  My project 
 
-[![wassa-Wassa](https://github.com/Konanycode1/Wassa-wassa/blob/main/compagnie/assets/img/lg.png)](https://konanycode1.github.io/Wassa-wassa/)
-
+* [Project Wassa-Wassa (transport et commerce)](https://konanycode1.github.io/Wassa-wassa/)
+* [Project QuickBank (Banque)](https://othniel-francky.github.io/QUIKBANK/)
+* [Project E-Suan (Education, Apprendre langue local comme Baoulé, Bété,Yacouba, Sénoufo )](https://konanycode1.github.io/E_suan/)
+* [Project oyofe (Restauration )](https://oyofe.onrender.com/)
