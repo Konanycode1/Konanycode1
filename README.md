@@ -11,5 +11,57 @@ Since 2019, I have excelled in the field of computer science as a developer, and
 - API rest implementation
 - UI design
 - Data analysis
+- Machine learning
+-  Machine Learning Pipelines with Azure ML Studio
+- Business Analysis
 
 
+## Technology
+
+* Javascript/ TypeScript
+
+```bash
+  - DOM (Document object model)
+  - Nodejs 
+  - Express JS
+  - Nextjs 
+  - React JS 
+  - Angular JS
+  - React Native 
+```
+* HTLM-CSS
+
+```bash
+  very good skills
+```
+* JQUERY
+
+```bash
+  very good skills
+```
+* Python
+
+```bash
+- DJANGO
+- DJANGO API Restful
+- Data analysis 
+- Machine Learning
+```
+* Java/ Java EE
+
+```bash
+- Sprint
+- Sprint Boot
+```
+* PHP
+
+```bash
+- Laravel
+- API Rest
+```
+* PHP
+
+```bash
+- Laravel
+- API Rest
+```
