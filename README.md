@@ -10,7 +10,7 @@ Since 2019, I have excelled in the field of computer science as a developer, and
 # ♟️  My project 
  [Project Money Fusion (agrégateur et commerce)](https://moneyfusion.net/) 
  [Project Wassa-Wassa (transport et commerce)](https://konanycode1.github.io/Wassa-wassa/) 
- 
+ [Project oukami Finance (finance)](https://oukamifinanceweb.onrender.com/)) 
  [Project QuickBank (Banque)](https://othniel-francky.github.io/QUIKBANK/)
  
  [Project E-Suan (Education, Apprendre langue local comme Baoulé, Bété,Yacouba, Sénoufo )](https://konanycode1.github.io/E_suan/)
